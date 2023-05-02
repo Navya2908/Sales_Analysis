@@ -1,4 +1,4 @@
--- Cleansed FACT_InternetSales Table --
+-- Cleansed InternetSales Table --
 SELECT 
   [ProductKey], 
   [OrderDateKey], 
