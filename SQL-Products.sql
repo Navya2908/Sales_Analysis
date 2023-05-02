@@ -1,4 +1,4 @@
--- Cleansed DIM_Products Table --
+-- Cleansed Products Table --
 SELECT 
   p.[ProductKey], 
   p.[ProductAlternateKey] AS ProductItemCode, 
