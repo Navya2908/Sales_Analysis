@@ -1,4 +1,4 @@
--- Cleansed DIM_Customers Table --
+-- Cleansed Customers Table --
 SELECT 
   c.customerkey AS CustomerKey, 
   --      ,[GeographyKey]
