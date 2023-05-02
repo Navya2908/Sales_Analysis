@@ -1,4 +1,4 @@
--- Cleansed DIM_Date Table --
+-- Cleansed Date Table --
 SELECT 
   [DateKey], 
   [FullDateAlternateKey] AS Date, 
